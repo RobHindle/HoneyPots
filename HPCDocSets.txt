@@ -1,0 +1,23 @@
+DocName,DocGroup,ShortForm,FType,DType,Size
+Introduction,Corp,Intro,pdf,L,5000
+Background,Corp,Bkgrd,pdf,L,10000
+GeographyBusinessArea,Corp,GeoBa,docx,L,25000
+Execstaff,HR,ExStf,docx,L,12000
+HirePol,HR,HireP,pdf,L,7500
+FirePol, HR,FireP,pdf,L,18000
+Contacts,Comm,Cntct,xslx,L,2500
+IncorpPapers,Legal,Incrp,pdf,L,35300
+Authorities,Legal,Auth,docx,L,12300
+SOAgreements,Legal,SOA,docx,L,15000
+Letters,Year,Letr,docx,L,1400
+FollowUps,Year,FUDs,docx,L,2590
+FinancialStmts,Year,FinSt,xslx,L,1430
+SOARpts,Year,SOArp,docx,L,3200
+AcntsRec,Year,ARytd,xlsx,L,2300
+AcntsPay,Year,APytd,xslx,L,1490
+Decisions,Year,Decsn,docx,L,2350
+ARMonth,Month,ARmtd,xlsx,N,750
+APMonth,Month,APmtd,xlsx,N,930
+SalesMonth,Month,Slmtd,xslx,L,850
+ReturnMonth,Month,Rtnmtd,pdf,L,360
+SOAMonth,Month,SOAmth,docx,L,240

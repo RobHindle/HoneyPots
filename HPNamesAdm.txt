@@ -1,0 +1,6 @@
+Name,ShortName
+0conops,0ConOp
+Zsop,ZSOP
+BobAdmin,BobA
+TylrAdmn,TyAd
+SysAdm,SysA
